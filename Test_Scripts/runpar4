@@ -1,0 +1,68 @@
+#! /bin/bash
+
+time(mpirun -np 32 python3 nfi1com.py h_normal_k_4_j_0.dat 2 1 set9.dat)
+time(mpirun -np 32 python3 nfi1com.py h_normal_k_4_j_0.dat 2 5 set9.dat)
+time(mpirun -np 32 python3 nfi1com.py h_normal_k_4_j_0.dat 2 10 set9.dat)
+
+time(mpirun -np 32 python3 nfi1com.py g_normal_k_4_j_0.dat 2 1 set9.dat)
+time(mpirun -np 32 python3 nfi1com.py g_normal_k_4_j_0.dat 2 5 set9.dat)
+time(mpirun -np 32 python3 nfi1com.py g_normal_k_4_j_0.dat 2 10 set9.dat)
+
+time(mpirun -np 32 python3 nfi1com.py z_normal_k_4_j_0.dat 2 1 set9.dat)
+time(mpirun -np 32 python3 nfi1com.py z_normal_k_4_j_0.dat 2 5 set9.dat)
+time(mpirun -np 32 python3 nfi1com.py z_normal_k_4_j_0.dat 2 10 set9.dat)
+
+time(mpirun -np 32 python3 nfi1com.py r_normal_k_4_j_0.dat 2 1 set9.dat)
+time(mpirun -np 32 python3 nfi1com.py r_normal_k_4_j_0.dat 2 5 set9.dat)
+time(mpirun -np 32 python3 nfi1com.py r_normal_k_4_j_0.dat 2 10 set9.dat)
+
+time(mpirun -np 32 python3 nfi1com.py h_normal_k_4_j_1.dat 3 1 set10.dat)
+time(mpirun -np 32 python3 nfi1com.py h_normal_k_4_j_1.dat 3 5 set10.dat)
+time(mpirun -np 32 python3 nfi1com.py h_normal_k_4_j_1.dat 3 10 set10.dat)
+
+time(mpirun -np 32 python3 nfi1com.py g_normal_k_4_j_1.dat 3 1 set10.dat)
+time(mpirun -np 32 python3 nfi1com.py g_normal_k_4_j_1.dat 3 5 set10.dat)
+time(mpirun -np 32 python3 nfi1com.py g_normal_k_4_j_1.dat 3 10 set10.dat)
+
+time(mpirun -np 32 python3 nfi1com.py z_normal_k_4_j_1.dat 3 1 set10.dat)
+time(mpirun -np 32 python3 nfi1com.py z_normal_k_4_j_1.dat 3 5 set10.dat)
+time(mpirun -np 32 python3 nfi1com.py z_normal_k_4_j_1.dat 3 10 set10.dat)
+
+time(mpirun -np 32 python3 nfi1com.py r_normal_k_4_j_1.dat 3 1 set10.dat)
+time(mpirun -np 32 python3 nfi1com.py r_normal_k_4_j_1.dat 3 5 set10.dat)
+time(mpirun -np 32 python3 nfi1com.py r_normal_k_4_j_1.dat 3 10 set10.dat)
+
+time(mpirun -np 32 python3 nfi1com.py h_normal_k_4_j_2.dat 4 1 set11.dat)
+time(mpirun -np 32 python3 nfi1com.py h_normal_k_4_j_2.dat 4 5 set11.dat)
+time(mpirun -np 32 python3 nfi1com.py h_normal_k_4_j_2.dat 4 10 set11.dat)
+
+time(mpirun -np 32 python3 nfi1com.py g_normal_k_4_j_2.dat 4 1 set11.dat)
+time(mpirun -np 32 python3 nfi1com.py g_normal_k_4_j_2.dat 4 5 set11.dat)
+time(mpirun -np 32 python3 nfi1com.py g_normal_k_4_j_2.dat 4 10 set11.dat)
+
+time(mpirun -np 32 python3 nfi1com.py z_normal_k_4_j_2.dat 4 1 set11.dat)
+time(mpirun -np 32 python3 nfi1com.py z_normal_k_4_j_2.dat 4 5 set11.dat)
+time(mpirun -np 32 python3 nfi1com.py z_normal_k_4_j_2.dat 4 10 set11.dat)
+
+time(mpirun -np 32 python3 nfi1com.py r_normal_k_4_j_2.dat 4 1 set11.dat)
+time(mpirun -np 32 python3 nfi1com.py r_normal_k_4_j_2.dat 4 5 set11.dat)
+time(mpirun -np 32 python3 nfi1com.py r_normal_k_4_j_2.dat 4 10 set11.dat)
+
+time(mpirun -np 32 python3 nfi1com.py h_normal_k_4_j_3.dat 5 1 set12.dat)
+time(mpirun -np 32 python3 nfi1com.py h_normal_k_4_j_3.dat 5 5  set12.dat)
+time(mpirun -np 32 python3 nfi1com.py h_normal_k_4_j_3.dat 5 10 set12.dat)
+
+time(mpirun -np 32 python3 nfi1com.py g_normal_k_4_j_3.dat 5 1 set12.dat)
+time(mpirun -np 32 python3 nfi1com.py g_normal_k_4_j_3.dat 5 5 set12.dat)
+time(mpirun -np 32 python3 nfi1com.py g_normal_k_4_j_3.dat 5 10 set12.dat)
+
+time(mpirun -np 32 python3 nfi1com.py z_normal_k_4_j_3.dat 5 1 set12.dat)
+time(mpirun -np 32 python3 nfi1com.py z_normal_k_4_j_3.dat 5 5 set12.dat)
+time(mpirun -np 32 python3 nfi1com.py z_normal_k_4_j_3.dat 5 10 set12.dat)
+
+time(mpirun -np 32 python3 nfi1com.py r_normal_k_4_j_3.dat 5 1 set12.dat)
+time(mpirun -np 32 python3 nfi1com.py r_normal_k_4_j_3.dat 5 5 set12.dat)
+time(mpirun -np 32 python3 nfi1com.py r_normal_k_4_j_3.dat 5 10 set12.dat)
+
+
+

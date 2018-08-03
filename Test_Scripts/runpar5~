@@ -1,0 +1,68 @@
+#! /bin/bash
+
+mpirun -np 8 python3 nfi1com.py h_uniform_k_2_j_0.dat 2 1 set9.dat
+mpirun -np 8 python3 nfi1com.py h_uniform_k_2_j_0.dat 2 10 set9.dat
+mpirun -np 8 python3 nfi1com.py h_uniform_k_2_j_0.dat 2 100 set9.dat
+
+mpirun -np 8 python3 nfi1com.py g_uniform_k_2_j_0.dat 2 1 set9.dat
+mpirun -np 8 python3 nfi1com.py g_uniform_k_2_j_0.dat 2 10 set9.dat
+mpirun -np 8 python3 nfi1com.py g_uniform_k_2_j_0.dat 2 100 set9.dat
+
+mpirun -np 8 python3 nfi1com.py z_uniform_k_2_j_0.dat 2 1 set9.dat
+mpirun -np 8 python3 nfi1com.py z_uniform_k_2_j_0.dat 2 10 set9.dat
+mpirun -np 8 python3 nfi1com.py z_uniform_k_2_j_0.dat 2 100 set9.dat
+
+mpirun -np 8 python3 nfi1com.py r_uniform_k_2_j_0.dat 2 1 set9.dat
+mpirun -np 8 python3 nfi1com.py r_uniform_k_2_j_0.dat 2 10 set9.dat
+mpirun -np 8 python3 nfi1com.py r_uniform_k_2_j_0.dat 2 100 set9.dat
+
+mpirun -np 8 python3 nfi1com.py h_uniform_k_2_j_1.dat 3 1 set10.dat
+mpirun -np 8 python3 nfi1com.py h_uniform_k_2_j_1.dat 3 10 set10.dat
+mpirun -np 8 python3 nfi1com.py h_uniform_k_2_j_1.dat 3 100 set10.dat
+
+mpirun -np 8 python3 nfi1com.py g_uniform_k_2_j_1.dat 3 1 set10.dat
+mpirun -np 8 python3 nfi1com.py g_uniform_k_2_j_1.dat 3 10 set10.dat
+mpirun -np 8 python3 nfi1com.py g_uniform_k_2_j_1.dat 3 100 set10.dat
+
+mpirun -np 8 python3 nfi1com.py z_uniform_k_2_j_1.dat 3 1 set10.dat
+mpirun -np 8 python3 nfi1com.py z_uniform_k_2_j_1.dat 3 10 set10.dat
+mpirun -np 8 python3 nfi1com.py z_uniform_k_2_j_1.dat 3 100 set10.dat
+
+mpirun -np 8 python3 nfi1com.py r_uniform_k_2_j_1.dat 3 1 set10.dat
+mpirun -np 8 python3 nfi1com.py r_uniform_k_2_j_1.dat 3 10 set10.dat
+mpirun -np 8 python3 nfi1com.py r_uniform_k_2_j_1.dat 3 100 set10.dat
+
+mpirun -np 8 python3 nfi1com.py h_uniform_k_2_j_2.dat 4 1 set11.dat
+mpirun -np 8 python3 nfi1com.py h_uniform_k_2_j_2.dat 4 10 set11.dat
+mpirun -np 8 python3 nfi1com.py h_uniform_k_2_j_2.dat 4 100 set11.dat
+
+mpirun -np 8 python3 nfi1com.py g_uniform_k_2_j_2.dat 4 1 set11.dat
+mpirun -np 8 python3 nfi1com.py g_uniform_k_2_j_2.dat 4 10 set11.dat
+mpirun -np 8 python3 nfi1com.py g_uniform_k_2_j_2.dat 4 100 set11.dat
+
+mpirun -np 8 python3 nfi1com.py z_uniform_k_2_j_2.dat 4 1 set11.dat
+mpirun -np 8 python3 nfi1com.py z_uniform_k_2_j_2.dat 4 10 set11.dat
+mpirun -np 8 python3 nfi1com.py z_uniform_k_2_j_2.dat 4 100 set11.dat
+
+mpirun -np 8 python3 nfi1com.py r_uniform_k_2_j_2.dat 4 1 set11.dat
+mpirun -np 8 python3 nfi1com.py r_uniform_k_2_j_2.dat 4 10 set11.dat
+mpirun -np 8 python3 nfi1com.py r_uniform_k_2_j_2.dat 4 100 set11.dat
+
+mpirun -np 8 python3 nfi1com.py h_uniform_k_2_j_3.dat 5 1 set12.dat
+mpirun -np 8 python3 nfi1com.py h_uniform_k_2_j_3.dat 5 5  set12.dat
+mpirun -np 8 python3 nfi1com.py h_uniform_k_2_j_3.dat 5 100 set12.dat
+
+mpirun -np 8 python3 nfi1com.py g_uniform_k_2_j_3.dat 5 1 set12.dat
+mpirun -np 8 python3 nfi1com.py g_uniform_k_2_j_3.dat 5 10 set12.dat
+mpirun -np 8 python3 nfi1com.py g_uniform_k_2_j_3.dat 5 100 set12.dat
+
+mpirun -np 8 python3 nfi1com.py z_uniform_k_2_j_3.dat 5 1 set12.dat
+mpirun -np 8 python3 nfi1com.py z_uniform_k_2_j_3.dat 5 10 set12.dat
+mpirun -np 8 python3 nfi1com.py z_uniform_k_2_j_3.dat 5 100 set12.dat
+
+mpirun -np 8 python3 nfi1com.py r_uniform_k_2_j_3.dat 5 1 set12.dat
+mpirun -np 8 python3 nfi1com.py r_uniform_k_2_j_3.dat 5 10 set12.dat
+mpirun -np 8 python3 nfi1com.py r_uniform_k_2_j_3.dat 5 100 set12.dat
+
+
+

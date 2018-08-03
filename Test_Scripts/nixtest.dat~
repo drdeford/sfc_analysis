@@ -1,0 +1,7 @@
+#! /bin/bash
+
+time(mpirun -np 8 python3 nfi1com.py h_normal_k_3_j_1.dat 3 1 t6.dat)
+time(mpirun -np 8 python3 nfi1com.py h_normal_k_3_j_1.dat 3 2 t6.dat)
+time(mpirun -np 8 python3 nfi1com.py h_normal_k_3_j_1.dat 3 2 t6.dat)
+time(mpirun -np 8 python3 nfi1com.py h_normal_k_3_j_1.dat 3 10 t6.dat)
+
