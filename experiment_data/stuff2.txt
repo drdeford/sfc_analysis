@@ -1,0 +1,106 @@
+
+
+***************g_uniform_k_3_j_0.dat_881_Points_10_Iterations***************
+
+Overall:
+
+The slowest send time was: 0.00652265548706seconds
+The slowest receive time was: 0.23872423172seconds
+The slowest computation time was: 0.32583117485seconds
+The largest number of messages was: 50
+The largest volume of messages was: 1920
+The fastest send time was: 0.00318789482117seconds
+The fastest receive time was: 0.00168871879578seconds
+The fastest computation time was: 0.0701043605804seconds
+The smallest number of messages was: 30
+The smallest volume of messages was: 870
+
+***************g_uniform_k_3_j_0.dat_881_Points_100_Iterations***************
+
+Overall:
+
+The slowest send time was: 0.0655281543732seconds
+The slowest receive time was: 2.81022191048seconds
+The slowest computation time was: 3.43753194809seconds
+The largest number of messages was: 500
+The largest volume of messages was: 19200
+The fastest send time was: 0.031637430191seconds
+The fastest receive time was: 0.0164728164673seconds
+The fastest computation time was: 0.687639713287seconds
+The smallest number of messages was: 300
+The smallest volume of messages was: 8700
+
+***************g_uniform_k_4_j_0.dat_9266_Points_10_Iterations***************
+
+Overall:
+
+The slowest send time was: 0.0135219097137seconds
+The slowest receive time was: 0.857108831406seconds
+The slowest computation time was: 1.26760220528seconds
+The largest number of messages was: 50
+The largest volume of messages was: 4200
+The fastest send time was: 0.00594639778137seconds
+The fastest receive time was: 0.00251221656799seconds
+The fastest computation time was: 0.28280878067seconds
+The smallest number of messages was: 30
+The smallest volume of messages was: 1800
+
+***************g_uniform_k_4_j_0.dat_9266_Points_100_Iterations***************
+
+Overall:
+
+The slowest send time was: 0.132683038712seconds
+The slowest receive time was: 10.2561943531seconds
+The slowest computation time was: 13.182970047seconds
+The largest number of messages was: 500
+The largest volume of messages was: 42000
+The fastest send time was: 0.0600998401642seconds
+The fastest receive time was: 0.0217728614807seconds
+The fastest computation time was: 2.89227104187seconds
+The smallest number of messages was: 300
+The smallest volume of messages was: 18000
+
+***************g_uniform_k_4_j_0.dat_9266_Points_10_Iterations***************
+
+Overall:
+
+The slowest send time was: 0.0135035514832seconds
+The slowest receive time was: 0.81808590889seconds
+The slowest computation time was: 1.21917366982seconds
+The largest number of messages was: 50
+The largest volume of messages was: 4200
+The fastest send time was: 0.00611209869385seconds
+The fastest receive time was: 0.00232481956482seconds
+The fastest computation time was: 0.284768819809seconds
+The smallest number of messages was: 30
+The smallest volume of messages was: 1800
+
+***************g_uniform_k_4_j_0.dat_9266_Points_10_Iterations***************
+
+Overall:
+
+The slowest send time was: 0.0134689807892seconds
+The slowest receive time was: 0.853799343109seconds
+The slowest computation time was: 1.2710287571seconds
+The largest number of messages was: 50
+The largest volume of messages was: 4200
+The fastest send time was: 0.00609278678894seconds
+The fastest receive time was: 0.00217795372009seconds
+The fastest computation time was: 0.288531064987seconds
+The smallest number of messages was: 30
+The smallest volume of messages was: 1800
+
+***************g_uniform_k_4_j_0.dat_9266_Points_10_Iterations***************
+
+Overall:
+
+The slowest send time was: 0.0134267807007seconds
+The slowest receive time was: 0.837486982346seconds
+The slowest computation time was: 1.25572133064seconds
+The largest number of messages was: 50
+The largest volume of messages was: 4200
+The fastest send time was: 0.00614476203918seconds
+The fastest receive time was: 0.00231409072876seconds
+The fastest computation time was: 0.289842605591seconds
+The smallest number of messages was: 30
+The smallest volume of messages was: 1800

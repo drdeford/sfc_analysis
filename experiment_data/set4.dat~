@@ -1,0 +1,31 @@
+
+
+***************h_normal_k_2_j_3.dat_41_Points_1_Iterations***************
+
+Overall:
+
+The slowest send time was: 0.000507116317749seconds
+The slowest receive time was: 0.0106816291809seconds
+The slowest computation time was: 0.042982339859seconds
+The largest number of messages was: 7
+The largest volume of messages was: 252
+The fastest send time was: 0.000460386276245seconds
+The fastest receive time was: 0.000116586685181seconds
+The fastest computation time was: 0.0387749671936seconds
+The smallest number of messages was: 7
+The smallest volume of messages was: 204
+
+***************h_normal_k_2_j_3.dat_41_Points_10_Iterations***************
+
+Overall:
+
+The slowest send time was: 0.00516629219055seconds
+The slowest receive time was: 0.0753698348999seconds
+The slowest computation time was: 0.469214677811seconds
+The largest number of messages was: 70
+The largest volume of messages was: 2520
+The fastest send time was: 0.00476002693176seconds
+The fastest receive time was: 0.0161638259888seconds
+The fastest computation time was: 0.384446382523seconds
+The smallest number of messages was: 70
+The smallest volume of messages was: 2040

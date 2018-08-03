@@ -1,0 +1,16 @@
+
+
+***************h_normal_k_3_j_0.dat_546_Points_1_Iterations***************
+
+Overall:
+
+The slowest send time was: 0.00133299827576seconds
+The slowest receive time was: 0.000432729721069seconds
+The slowest computation time was: 0.316233873367seconds
+The largest number of messages was: 6
+The largest volume of messages was: 345
+The fastest send time was: 0.00067925453186seconds
+The fastest receive time was: 0.000181198120117seconds
+The fastest computation time was: 0.0810701847076seconds
+The smallest number of messages was: 3
+The smallest volume of messages was: 180

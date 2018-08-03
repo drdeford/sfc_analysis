@@ -1,0 +1,212 @@
+
+
+***************h_normal_k_2_j_1.dat_42_Points_1_Iterations***************
+
+Overall:
+
+The slowest send time was: 0.000976800918579seconds
+The slowest receive time was: 0.00242447853088seconds
+The slowest computation time was: 0.0238900184631seconds
+The largest number of messages was: 7
+The largest volume of messages was: 156
+The fastest send time was: 0.000284194946289seconds
+The fastest receive time was: 0.000150442123413seconds
+The fastest computation time was: 0.00893878936768seconds
+The smallest number of messages was: 6
+The smallest volume of messages was: 88
+
+***************h_normal_k_2_j_1.dat_42_Points_10_Iterations***************
+
+Overall:
+
+The slowest send time was: 0.00497531890869seconds
+The slowest receive time was: 0.139411449432seconds
+The slowest computation time was: 0.233720302582seconds
+The largest number of messages was: 70
+The largest volume of messages was: 1560
+The fastest send time was: 0.00317525863647seconds
+The fastest receive time was: 0.0115780830383seconds
+The fastest computation time was: 0.0942642688751seconds
+The smallest number of messages was: 60
+The smallest volume of messages was: 880
+
+***************h_normal_k_2_j_1.dat_42_Points_1_Iterations***************
+
+Overall:
+
+The slowest send time was: 0.00053071975708seconds
+The slowest receive time was: 0.000236988067627seconds
+The slowest computation time was: 0.0251014232635seconds
+The largest number of messages was: 7
+The largest volume of messages was: 156
+The fastest send time was: 0.000342845916748seconds
+The fastest receive time was: 0.000109434127808seconds
+The fastest computation time was: 0.00883412361145seconds
+The smallest number of messages was: 6
+The smallest volume of messages was: 88
+
+***************h_normal_k_2_j_1.dat_42_Points_100_Iterations***************
+
+Overall:
+
+The slowest send time was: 0.0493290424347seconds
+The slowest receive time was: 1.54827189445seconds
+The slowest computation time was: 2.34617400169seconds
+The largest number of messages was: 700
+The largest volume of messages was: 15600
+The fastest send time was: 0.0328841209412seconds
+The fastest receive time was: 0.157311916351seconds
+The fastest computation time was: 0.957762718201seconds
+The smallest number of messages was: 600
+The smallest volume of messages was: 8800
+
+***************h_normal_k_2_j_1.dat_42_Points_1000_Iterations***************
+
+Overall:
+
+The slowest send time was: 0.497617959976seconds
+The slowest receive time was: 16.8076832294seconds
+The slowest computation time was: 24.9257473946seconds
+The largest number of messages was: 7000
+The largest volume of messages was: 156000
+The fastest send time was: 0.330075502396seconds
+The fastest receive time was: 0.841260671616seconds
+The fastest computation time was: 9.0570101738seconds
+The smallest number of messages was: 6000
+The smallest volume of messages was: 88000
+
+
+***************g_normal_k_2_j_1.dat_42_Points_1_Iterations***************
+
+Overall:
+
+The slowest send time was: 0.000498533248901seconds
+The slowest receive time was: 0.0215013027191seconds
+The slowest computation time was: 0.0206480026245seconds
+The largest number of messages was: 7
+The largest volume of messages was: 152
+The fastest send time was: 0.000230073928833seconds
+The fastest receive time was: 0.000137567520142seconds
+The fastest computation time was: 0.00642108917236seconds
+The smallest number of messages was: 7
+The smallest volume of messages was: 104
+
+***************g_normal_k_2_j_1.dat_42_Points_100_Iterations***************
+
+Overall:
+
+The slowest send time was: 0.0996124744415seconds
+The slowest receive time was: 1.08914804459seconds
+The slowest computation time was: 2.19244194031seconds
+The largest number of messages was: 700
+The largest volume of messages was: 15200
+The fastest send time was: 0.0393817424774seconds
+The fastest receive time was: 0.183760643005seconds
+The fastest computation time was: 1.23457193375seconds
+The smallest number of messages was: 700
+The smallest volume of messages was: 10400
+
+***************g_normal_k_2_j_1.dat_42_Points_1000_Iterations***************
+
+Overall:
+
+The slowest send time was: 0.480676412582seconds
+The slowest receive time was: 12.1891589165seconds
+The slowest computation time was: 22.9660422802seconds
+The largest number of messages was: 7000
+The largest volume of messages was: 152000
+The fastest send time was: 0.395926713943seconds
+The fastest receive time was: 0.750108242035seconds
+The fastest computation time was: 11.5537261963seconds
+The smallest number of messages was: 7000
+The smallest volume of messages was: 104000
+
+***************z_normal_k_2_j_1.dat_42_Points_1_Iterations***************
+
+Overall:
+
+The slowest send time was: 0.000473260879517seconds
+The slowest receive time was: 0.0097770690918seconds
+The slowest computation time was: 0.0217297077179seconds
+The largest number of messages was: 7
+The largest volume of messages was: 156
+The fastest send time was: 0.000279188156128seconds
+The fastest receive time was: 0.000121116638184seconds
+The fastest computation time was: 0.00897717475891seconds
+The smallest number of messages was: 6
+The smallest volume of messages was: 92
+
+***************z_normal_k_2_j_1.dat_42_Points_100_Iterations***************
+
+Overall:
+
+The slowest send time was: 0.0623631477356seconds
+The slowest receive time was: 2.27139663696seconds
+The slowest computation time was: 2.95543122292seconds
+The largest number of messages was: 700
+The largest volume of messages was: 15600
+The fastest send time was: 0.0345215797424seconds
+The fastest receive time was: 0.258613586426seconds
+The fastest computation time was: 0.948756217957seconds
+The smallest number of messages was: 600
+The smallest volume of messages was: 9200
+
+***************z_normal_k_2_j_1.dat_42_Points_1000_Iterations***************
+
+Overall:
+
+The slowest send time was: 0.505973577499seconds
+The slowest receive time was: 15.062425375seconds
+The slowest computation time was: 22.7704567909seconds
+The largest number of messages was: 7000
+The largest volume of messages was: 156000
+The fastest send time was: 0.368792533875seconds
+The fastest receive time was: 1.80673384666seconds
+The fastest computation time was: 9.58571529388seconds
+The smallest number of messages was: 6000
+The smallest volume of messages was: 92000
+
+***************r_normal_k_2_j_1.dat_42_Points_1_Iterations***************
+
+Overall:
+
+The slowest send time was: 0.000489473342896seconds
+The slowest receive time was: 0.000186204910278seconds
+The slowest computation time was: 0.024261713028seconds
+The largest number of messages was: 7
+The largest volume of messages was: 148
+The fastest send time was: 0.00035285949707seconds
+The fastest receive time was: 0.000113248825073seconds
+The fastest computation time was: 0.0098237991333seconds
+The smallest number of messages was: 6
+The smallest volume of messages was: 92
+
+***************r_normal_k_2_j_1.dat_42_Points_100_Iterations***************
+
+Overall:
+
+The slowest send time was: 0.0532989501953seconds
+The slowest receive time was: 2.21800494194seconds
+The slowest computation time was: 2.4722173214seconds
+The largest number of messages was: 700
+The largest volume of messages was: 14800
+The fastest send time was: 0.0348496437073seconds
+The fastest receive time was: 0.714799880981seconds
+The fastest computation time was: 0.982961416245seconds
+The smallest number of messages was: 600
+The smallest volume of messages was: 9200
+
+***************r_normal_k_2_j_1.dat_42_Points_1000_Iterations***************
+
+Overall:
+
+The slowest send time was: 0.503708124161seconds
+The slowest receive time was: 14.3298597336seconds
+The slowest computation time was: 23.2395248413seconds
+The largest number of messages was: 7000
+The largest volume of messages was: 148000
+The fastest send time was: 0.33620095253seconds
+The fastest receive time was: 0.906363487244seconds
+The fastest computation time was: 9.97434830666seconds
+The smallest number of messages was: 6000
+The smallest volume of messages was: 92000

@@ -1,0 +1,61 @@
+
+
+***************h_janall.dat_256_Points_1_Iterations***************
+
+Overall:
+
+The slowest send time was: 0.00177216529846seconds
+The slowest receive time was: 0.000864028930664seconds
+The slowest computation time was: 0.0458543300629seconds
+The largest number of messages was: 6
+The largest volume of messages was: 168
+The fastest send time was: 0.000741958618164seconds
+The fastest receive time was: 0.000197410583496seconds
+The fastest computation time was: 0.0159015655518seconds
+The smallest number of messages was: 2
+The smallest volume of messages was: 72
+
+***************g_janall.dat_256_Points_1_Iterations***************
+
+Overall:
+
+The slowest send time was: 0.00194787979126seconds
+The slowest receive time was: 0.000628471374512seconds
+The slowest computation time was: 0.0480842590332seconds
+The largest number of messages was: 5
+The largest volume of messages was: 144
+The fastest send time was: 0.000884771347046seconds
+The fastest receive time was: 0.000250339508057seconds
+The fastest computation time was: 0.0180389881134seconds
+The smallest number of messages was: 3
+The smallest volume of messages was: 84
+
+***************z_janall.dat_256_Points_1_Iterations***************
+
+Overall:
+
+The slowest send time was: 0.000533580780029seconds
+The slowest receive time was: 0.000204086303711seconds
+The slowest computation time was: 0.048264503479seconds
+The largest number of messages was: 5
+The largest volume of messages was: 144
+The fastest send time was: 0.000303983688354seconds
+The fastest receive time was: 9.08374786377e-05seconds
+The fastest computation time was: 0.0155873298645seconds
+The smallest number of messages was: 3
+The smallest volume of messages was: 84
+
+***************r_janall.dat_256_Points_1_Iterations***************
+
+Overall:
+
+The slowest send time was: 0.000657320022583seconds
+The slowest receive time was: 0.000275850296021seconds
+The slowest computation time was: 0.10585474968seconds
+The largest number of messages was: 2
+The largest volume of messages was: 192
+The fastest send time was: 0.000340223312378seconds
+The fastest receive time was: 7.41481781006e-05seconds
+The fastest computation time was: 0.0247640609741seconds
+The smallest number of messages was: 1
+The smallest volume of messages was: 96
